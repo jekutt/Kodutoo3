@@ -51,6 +51,7 @@ namespace Kodutoo3
             }
             Console.WriteLine("The length is {0}", _dist);
             return _dist;
+
         }
     }
 }
